@@ -37,11 +37,7 @@ def write_json(data):
 
 def main():
     for i in range(5):
-        write_json(prepd_data(gen_person()))
-
-
-
-
+        write_json(prep_data(gen_person()))
 
 
 
