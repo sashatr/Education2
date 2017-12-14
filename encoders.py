@@ -40,9 +40,5 @@ def main():
         write_json(prep_data(gen_person()))
 
 
-
-
 if __name__ == '__main__':
     main()
-
-
